@@ -1,9 +1,9 @@
 {
-  "name": "netflix-clone-react",
+  "name": "my_flix",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://harshkumarsingh14666.github.io/netflix-clone"
-,
+ "homepage": "https://anujsingh20078.github.io/my_flix",
+
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.6.4",

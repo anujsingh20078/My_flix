@@ -7,7 +7,7 @@ function HeroSection() {
       <div className="overlay" />
       <nav className="navbar">
         <img
-          src={`${process.env.PUBLIC_URL}/images/Logo.png`} // ✅ Correct path for public folder image
+          src={`${process.env.PUBLIC_URL}/images/Mylogo.png`} // ✅ Correct path for public folder image
           alt="Netflix Logo"
           className="logo"
         />
@@ -21,7 +21,7 @@ function HeroSection() {
       </nav>
       <div className="content mb-5">
         <h1>Unlimited movies, TV<br />shows and more</h1>
-        <h2>Starts at ₹149. Cancel at any time.</h2>
+        <h2>Starts at ₹199. Cancel at any time.</h2>
         <p>Ready to watch? Enter your email to create or restart your membership.</p>
         <form className="email-form">
           <input type="email" placeholder="Email address" />
