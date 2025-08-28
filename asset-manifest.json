@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my_flix/static/css/main.10a05b2f.css",
+    "main.js": "/my_flix/static/js/main.d8d35aea.js",
+    "static/media/bg.png": "/my_flix/static/media/bg.b88d682caae245d27d14.png",
+    "index.html": "/my_flix/index.html",
+    "main.10a05b2f.css.map": "/my_flix/static/css/main.10a05b2f.css.map",
+    "main.d8d35aea.js.map": "/my_flix/static/js/main.d8d35aea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10a05b2f.css",
+    "static/js/main.d8d35aea.js"
+  ]
+}
